@@ -1,3 +1,8 @@
+<div align="center">
+    <h1>Fundamentos de Estadística y Análisis de Datos con Python</h1>
+    <img src="readme_images/Captura de pantalla 2023-04-22 124243.png" width="">
+</div>
+
 # Estadistica-con-Python
 En este repositorio muestro las distintas herramientas que he aprendido a lo largo de estos años en el ambito de la Ciencia de Datos, 
 como matemático mi interes es el de desarrollar e implementar modelos que permitan resolver las problematicas planteadas por la empresa,
