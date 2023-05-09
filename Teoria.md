@@ -33,3 +33,29 @@ Si estás buscando libros de estadística enfocados en una carrera de matemátic
 Estos libros son solo algunas recomendaciones y pueden ser más apropiados para aquellos que buscan una perspectiva matemática más profunda en estadística. Sin embargo, ten en cuenta que algunos de estos libros pueden requerir conocimientos matemáticos previos sólidos.
 
 
+Mi libro favorito y que he resulto es del de "Theory of Statistics" de Mark J. Schervish ya que abarca una amplia gama de temas relacionados con la teoría estadística. A continuación, te presento algunos de los temas principales que se tratan en el libro:
+
+1. Introducción a la teoría estadística.
+2. Probabilidad y distribuciones de probabilidad.
+3. Variables aleatorias y vectores aleatorios.
+4. Estadísticas de orden y distribuciones de orden.
+5. Distribuciones de muestreo y convergencia en probabilidad.
+6. Teoría de la estimación puntual.
+7. Propiedades de los estimadores puntuales.
+8. Estimación por intervalos y regiones de confianza.
+9. Teoría de la estimación bayesiana.
+10. Métodos de máxima verosimilitud.
+11. Propiedades asintóticas de los estimadores.
+12. Contrastes de hipótesis y teoría de la decisión.
+13. Métodos de remuestreo y bootstrap.
+14. Modelos lineales y estimación por mínimos cuadrados.
+15. Análisis de la varianza y de la covarianza.
+16. Modelos lineales generalizados.
+
+Estos temas proporcionan una sólida base teórica en estadística y son fundamentales para comprender los conceptos y métodos estadísticos en un nivel más profundo. El libro también incluye ejemplos y problemas para ayudar a reforzar los conocimientos y la comprensión de los lectores.
+
+--------------------------------------------------
+
+Tomare como guía el temario anterior partiendo desde el punto 4 ya que los temas de probabilidad y variables aleatorias los trate a detalle en el repositorio de Probabilidad.
+
+## 4. Estadísticas de orden y distribuciones de orden.
